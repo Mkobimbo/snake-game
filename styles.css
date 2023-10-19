@@ -1,0 +1,20 @@
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid;
+}
+#scoreText{
+    font-family: "Raleway", sans-serif;
+    font-size: 100px;
+}
+#resetBtn{
+    background: #ff6a00;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+    border: none;
+    cursor: pointer;
+}
